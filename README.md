@@ -2,7 +2,7 @@
 
 This is a very simple starter template to bootstrap a [d3.js](https://d3js.org/) app with webpack. 
 
-The need arose when I wanted a really simple starter app to create some d3 visualizations without a lot of other overhead.
+I wanted a really simple starter app to create some d3 visualizations without a lot of other overhead.
 
 ## Configuration includes: 
 - dev server with hot reloading 🔥
