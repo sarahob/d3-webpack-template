@@ -17,3 +17,6 @@ This will run the webpack dev config. The dev server will be available on `local
 
 `npm run build`
 This will run the webpack prod config. The app will be bundled and available from the `/dist` folder. 
+
+## Note: 
+This app imports all of d3 using `import * as d3 from d3.` This allows access to all d3 functions from the d3 namespace and is easier for getting started. However I do not recommend this for production level apps. It is best to only import modules as needed. 
